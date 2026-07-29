@@ -1,193 +1,63 @@
 <div align="center">
 
-# 👋 Hi, I'm Chandraprasad Das
+# 👋 Hi, I'm **Chandraprasad Das**
 
-### 🚀 MERN Stack Developer | Full Stack Developer
+## 🚀 MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Open+to+Work+🚀" />
+### Building Scalable Full Stack Web Applications
 
-<br>
-
-💻 Passionate about building modern, scalable and responsive web applications.
-
-📍 Odisha, India 🇮🇳
-
-💼 **Open to Full-Time Opportunities**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Scalable+Full+Stack+Web+Applications" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💻 Tech Skills
 
-```yaml
-Name: Chandraprasad Das
-
-Role: MERN Stack Developer
-
-Education: MCA Graduate
-
-Location: Odisha, India
-
-Experience: Full Stack Web Development
-
-Current Focus:
-  - React.js
-  - Node.js
-  - Express.js
-  - MongoDB
-  - REST APIs
-  - JWT Authentication
-
-Learning:
-  - Next.js
-  - TypeScript
-  - System Design
-
-Status:
-  Open to Work
-```
-
----
-
-# 💻 Tech Stack
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,git,github,postman" />
 </p>
 
-### ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🍔 Food Delivery Application
-
-✔ User Authentication
-
-✔ Stripe Payment Integration
-
-✔ Cart Management
-
-✔ Admin Dashboard
-
-✔ Responsive UI
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* JavaScript
+* HTML5
+* CSS3
+* REST APIs
+* Git & GitHub
+* Postman
 
 ---
 
-## 🛒 MERN E-Commerce Platform
+# 🛠 Projects
 
-✔ JWT Authentication
+## 🛒 MERN E-Commerce Application
 
-✔ Product CRUD
-
-✔ Shopping Cart
-
-✔ Secure Login
-
-✔ REST API
+* User Authentication & Authorization
+* Shopping Cart Functionality
+* REST API Integration
+* Backend API Testing using Postman
+* Responsive User Interface
 
 ---
 
-## 👨‍💼 Employee Feedback Manager
+# 📫 Contact
 
-✔ Employee Login
-
-✔ Admin Dashboard
-
-✔ CRUD Operations
-
-✔ JWT Authentication
+* 📧 **[chandraprasaddas18@gmail.com](mailto:chandraprasaddas18@gmail.com)**
+* 💼 **Open to Work**
 
 ---
 
-## 🔐 Email Verification System
+# 🚀 Career Goal
 
-✔ OTP Verification
-
-✔ Secure Authentication
-
-✔ JWT Login
-
-✔ Password Encryption
-
----
-
-## 🌐 Portfolio Website
-
-✔ React.js
-
-✔ Tailwind CSS
-
-✔ Responsive Design
-
-✔ Modern UI
-
----
-
-# 📌 What I Do
-
-✅ Full Stack MERN Development
-
-✅ Responsive Website Design
-
-✅ REST API Development
-
-✅ Authentication & Authorization
-
-✅ MongoDB Database Design
-
-✅ Frontend Development
-
-✅ Backend Development
-
----
-
-# 📫 Connect With Me
-
-📧 **Email**
-
-> [chandraprasaddas18@gmail.com](mailto:chandraprasaddas18@gmail.com)
-
-🐙 **GitHub**
-
-> https://github.com/Chandraprasad18
-
-💼 **LinkedIn**
-
-> Add Your LinkedIn URL
-
-🌐 **Portfolio**
-
-> Add Your Portfolio URL
-
----
-
-# 💬 Quote
-
-> **"First, solve the problem. Then, write the code." — John Johnson**
+> Passionate MERN Stack Developer focused on building scalable and responsive full-stack web applications while continuously improving development skills.
 
 ---
 
 <div align="center">
 
-## 🚀 Thanks for Visiting My Profile!
-
-### ⭐ If you like my projects, don't forget to Star ⭐ the repositories.
-
-### Happy Coding ❤️
+### ⭐ Thank You for Visiting My GitHub Profile ⭐
 
 </div>
