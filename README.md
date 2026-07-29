@@ -1,16 +1,18 @@
-# 👋 Hi, I'm **Chandraprasad Das**
-
 <div align="center">
 
-## 🚀 MERN Stack Developer | Full Stack Web Developer
+# 👋 Hi, I'm Chandraprasad Das
+
+### 🚀 MERN Stack Developer | Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Open+to+Work+🚀" />
+
+<br>
 
 💻 Passionate about building modern, scalable and responsive web applications.
 
 📍 Odisha, India 🇮🇳
 
-💼 **Open to Work**
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;React.js+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+💼 **Open to Full-Time Opportunities**
 
 </div>
 
@@ -18,31 +20,51 @@
 
 # 🚀 About Me
 
-* 🎓 MCA Graduate
-* 💻 MERN Stack Developer
-* 🌱 Currently learning Next.js & TypeScript
-* 📚 Passionate about Full Stack Development
-* 🚀 Building real-world projects using the MERN Stack
-* 🤝 Open to collaborating on Open Source Projects
-* 💼 Looking for Full-Time Software Developer opportunities
+```yaml
+Name: Chandraprasad Das
+
+Role: MERN Stack Developer
+
+Education: MCA Graduate
+
+Location: Odisha, India
+
+Experience: Full Stack Web Development
+
+Current Focus:
+  - React.js
+  - Node.js
+  - Express.js
+  - MongoDB
+  - REST APIs
+  - JWT Authentication
+
+Learning:
+  - Next.js
+  - TypeScript
+  - System Design
+
+Status:
+  Open to Work
+```
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-### Frontend
+### 🌐 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
 </p>
 
-### Backend
+### ⚙ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools
+### 🛠 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
@@ -50,114 +72,122 @@
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### 🍔 Food Delivery App
+## 🍔 Food Delivery Application
 
-* User Authentication
-* Shopping Cart
-* Stripe Payment Integration
-* Admin Dashboard
-* Responsive UI
+✔ User Authentication
 
----
+✔ Stripe Payment Integration
 
-### 🛒 MERN E-Commerce Application
+✔ Cart Management
 
-* JWT Authentication
-* Product Management
-* Shopping Cart
-* REST APIs
-* Secure Login
+✔ Admin Dashboard
+
+✔ Responsive UI
 
 ---
 
-### 👨‍💼 Employee Feedback Manager
+## 🛒 MERN E-Commerce Platform
 
-* Employee Login
-* Admin Dashboard
-* Feedback CRUD
-* JWT Authentication
+✔ JWT Authentication
 
----
+✔ Product CRUD
 
-### 🔐 Email Verification System
+✔ Shopping Cart
 
-* OTP Verification
-* JWT Authentication
-* Secure Registration & Login
+✔ Secure Login
+
+✔ REST API
 
 ---
 
-### 🌐 Portfolio Website
+## 👨‍💼 Employee Feedback Manager
 
-* React.js
-* Tailwind CSS
-* Responsive Design
-* Project Showcase
+✔ Employee Login
 
----
+✔ Admin Dashboard
 
-# 📊 GitHub Stats
+✔ CRUD Operations
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chandraprasad18&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandraprasad18&layout=compact&theme=tokyonight"/>
-
-</p>
+✔ JWT Authentication
 
 ---
 
-# 🔥 GitHub Streak
+## 🔐 Email Verification System
 
-<p align="center">
+✔ OTP Verification
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandraprasad18&theme=tokyonight"/>
+✔ Secure Authentication
 
-</p>
+✔ JWT Login
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandraprasad18&theme=tokyo-night"/>
-
-</p>
+✔ Password Encryption
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Portfolio Website
 
-<p align="left">
+✔ React.js
 
-📧 Email: **[chandraprasaddas18@gmail.com](mailto:chandraprasaddas18@gmail.com)**
+✔ Tailwind CSS
 
-💼 LinkedIn: **YOUR_LINKEDIN_URL**
+✔ Responsive Design
 
-🌍 Portfolio: **YOUR_PORTFOLIO_URL**
-
-🐙 GitHub: **https://github.com/Chandraprasad18**
-
-</p>
+✔ Modern UI
 
 ---
 
-# 💬 Developer Quote
+# 📌 What I Do
 
-> **"First, solve the problem. Then, write the code." – John Johnson**
+✅ Full Stack MERN Development
+
+✅ Responsive Website Design
+
+✅ REST API Development
+
+✅ Authentication & Authorization
+
+✅ MongoDB Database Design
+
+✅ Frontend Development
+
+✅ Backend Development
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+> [chandraprasaddas18@gmail.com](mailto:chandraprasaddas18@gmail.com)
+
+🐙 **GitHub**
+
+> https://github.com/Chandraprasad18
+
+💼 **LinkedIn**
+
+> Add Your LinkedIn URL
+
+🌐 **Portfolio**
+
+> Add Your Portfolio URL
+
+---
+
+# 💬 Quote
+
+> **"First, solve the problem. Then, write the code." — John Johnson**
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+## 🚀 Thanks for Visiting My Profile!
 
-If you like my work, don't forget to ⭐ my repositories.
+### ⭐ If you like my projects, don't forget to Star ⭐ the repositories.
 
-🚀 Happy Coding!
+### Happy Coding ❤️
 
 </div>
